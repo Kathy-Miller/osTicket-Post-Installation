@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This video is a demostration of the the skills practiced in the osTicketing System Lab.  The outline of the topics covered are below and include prerequisites, installation, and use of the system as a user and an administrator of the open-source help desk ticketing system osTicket.<br />
  <p>
 
 
@@ -37,8 +37,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>osTicket System Prerequisites</h2>
 
-- Create a Virtual Machine in Azure
-- Install all Pre-installation Files
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/28b549ea-ece0-46d7-8c94-180f95bdb8ab)
+ Create a Resource Group and Virtual Machine in Azure
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/d4799493-99f4-44d1-863d-45cca5a83ac0)
+Remote Desktop Connection App to Connect to Virtual Machine
+- Install all Pre-installation Files on Virtual Machine
 - Install/Enable IIS in Windows with CGI and Common HTTP Features
 - Add IIS Management Console
 - Install osTicket
