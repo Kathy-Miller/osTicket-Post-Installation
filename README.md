@@ -61,12 +61,8 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 - User Setup
 - Using the Ticketing System: creating tickets, assign tickets, create notes, add collaborators, close tickets
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+ 
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
 <br />
 
 <p>
