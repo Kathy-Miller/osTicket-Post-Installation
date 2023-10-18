@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This video is a demostration of the the skills practiced in the osTicketing System Lab.  The outline of the topics covered are below and include prerequisites, installation, and use of the system as a user and an administrator of the open-source help desk ticketing system osTicket.<br />
+This video is a demostration of the the skills practiced in the osTicketing System Lab.  The outline of the topics covered is below and includes installation prerequisites, installation, and use of the system as a user and an administrator of the open-source help desk ticketing system osTicket.<br />
  <p>
 
 
