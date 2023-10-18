@@ -13,7 +13,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  </p>
  
  
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/cb585c56-51ee-4a49-a3cf-2e78cd6064ae)
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
+
 
 
 
