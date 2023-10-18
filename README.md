@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
--<p> font color="ff0000" ### Insert Video Here
+-<p> fontcolor="ff0000" ### Insert Video Here
 </p>
 <h2>Environments and Technologies Used</h2>
 
