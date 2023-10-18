@@ -12,14 +12,6 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
  </p>
  
- 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
-
-
-
-
-
-
 
 
 
@@ -50,9 +42,18 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/ee3d72e6-3d1a-4dbb-87bd-d407710a2d22) Add IIS Management Console
 
+ 
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
+
+
+
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/4a107db5-9263-4544-98ec-6251c5696a7b) Install osTicket
   
+ 
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
+
+
 
 <h2>Post Configuration of osTicket</h2>
 
