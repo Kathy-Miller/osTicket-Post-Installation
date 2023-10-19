@@ -25,7 +25,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>osTicket System Prerequisites</h2>
 
