@@ -34,15 +34,11 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/5df0eac1-fa79-4e1c-b462-ca6420036a76) Use Remote Desktop Connection App to Connect to Virtual Machine
 
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/49ca2657-1645-45a7-bd76-3f9f3e302989) Install all Pre-installation Files on Virtual Machine (Video Begins Here)
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/49ca2657-1645-45a7-bd76-3f9f3e302989) Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
 
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/08e4b42c-67df-4826-8835-19c8aaacdae1) Install/Enable IIS in Windows with CGI and Common HTTP Features
-
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/ee3d72e6-3d1a-4dbb-87bd-d407710a2d22) Add IIS Management Console
-
- 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/08e4b42c-67df-4826-8835-19c8aaacdae1) 
+Install all Pre-installation Files on Virtual Machine
 
 
 
