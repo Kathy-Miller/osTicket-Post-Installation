@@ -48,10 +48,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-Install osTicket
   
- 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
 
 
 
