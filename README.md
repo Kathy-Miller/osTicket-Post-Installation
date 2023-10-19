@@ -41,7 +41,8 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 Install all Pre-installation Files on Virtual Machine
 
 
-
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/08e4b42c-67df-4826-8835-19c8aaacdae1) 
+Install osTicket and connect to database in HeidiSQL
 
   
 
