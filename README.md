@@ -29,13 +29,12 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 <h2>osTicket System Prerequisites</h2>
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/deba916f-90db-4be3-9a77-5d0febe9553f) Create a Resource Group and Virtual Machine in Azure
-
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/deba916f-90db-4be3-9a77-5d0febe9553f) Create a Resource Group and Virtual Machine in Azure 
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/5df0eac1-fa79-4e1c-b462-ca6420036a76) Use Remote Desktop Connection App to Connect to Virtual Machine
 
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/49ca2657-1645-45a7-bd76-3f9f3e302989) Install all Pre-installation Files on Virtual Machine
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/49ca2657-1645-45a7-bd76-3f9f3e302989) Install all Pre-installation Files on Virtual Machine (Video begins here)
 
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/08e4b42c-67df-4826-8835-19c8aaacdae1) Install/Enable IIS in Windows with CGI and Common HTTP Features
