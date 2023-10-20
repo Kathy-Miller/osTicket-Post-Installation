@@ -20,7 +20,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop 
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -31,7 +31,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/deba916f-90db-4be3-9a77-5d0febe9553f) Create a Resource Group and Virtual Machine in Azure 
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/5df0eac1-fa79-4e1c-b462-ca6420036a76) Use Remote Desktop Connection App to Connect to Virtual Machine
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/5df0eac1-fa79-4e1c-b462-ca6420036a76) Use Remote Desktop Connection App to Connect to Virtual Machine (Video below begins here)
 
 
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/49ca2657-1645-45a7-bd76-3f9f3e302989) Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
