@@ -12,6 +12,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
  </p>
  
+![play](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/8874de34-3ab2-43a0-9aff-e4d5ac318bcd)
 
 
 
