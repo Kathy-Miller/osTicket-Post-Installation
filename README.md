@@ -12,7 +12,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
  </p>
  
-![play](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/8874de34-3ab2-43a0-9aff-e4d5ac318bcd)
+
 
 
 
@@ -49,7 +49,7 @@ Install osTicket and connect to database in HeidiSQL
 
 
 <a href="https://youtube.com/watch?v=B75beY33HsM" target="_blank">
-<img src=file:///C:/Users/otterbe/Desktop/Projects/buhti/play.png
+<img src=![play](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/8874de34-3ab2-43a0-9aff-e4d5ac318bcd)
 width="300" height="190"> </a>
 
 
