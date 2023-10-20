@@ -49,7 +49,7 @@ Install osTicket and connect to database in HeidiSQL
 
 <body>
 
-<a href="https:/youtube.com/watch?v=B75beY33HsM">
+<a href="https://youtube.com/watch?v=B75beY33HsM">
 <img src="file:///C:/Users/otterbe/Desktop/Projects/buhti/osTicket Pre-installation and Installation Image.png" width="300" height="190">
 </a>
 
