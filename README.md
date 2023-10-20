@@ -45,11 +45,10 @@ Install all Pre-installation Files on Virtual Machine
 ![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/08e4b42c-67df-4826-8835-19c8aaacdae1) 
 Install osTicket and connect to database in HeidiSQL
 
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/a59cc5eb-4232-4b4a-a52a-81f83d5a1558)
 
 
 
-
+![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
 
 
 <h2>Post Configuration of osTicket</h2>
