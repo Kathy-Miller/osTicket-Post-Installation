@@ -30,18 +30,18 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 <h2>osTicket System Prerequisites</h2>
 
-[X] Create a Resource Group and Virtual Machine in Azure 
+- [X] Create a Resource Group and Virtual Machine in Azure 
 
-[X] Use Remote Desktop Connection App to Connect to Virtual Machine (Video below begins here)
-
-
-[X] Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
+- [X] Use Remote Desktop Connection App to Connect to Virtual Machine (Video below begins here)
 
 
-[X] Install all Pre-installation Files on Virtual Machine
+- [X] Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
 
 
-[X] Install osTicket and connect to database in HeidiSQL
+- [X] Install all Pre-installation Files on Virtual Machine
+
+
+- [X] Install osTicket and connect to database in HeidiSQL
 
 [<img src="[http://www.google.com.au/images/nav_logo7.png](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)">]([http://google.com.au/](https://youtu.be/B75beY33HsM?feature=shared))
 
