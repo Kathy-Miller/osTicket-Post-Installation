@@ -51,7 +51,7 @@ Install osTicket and connect to database in HeidiSQL
 
 
 (#)
-[**Click to Watch Full Demo on YouTube**](https://youtu.be/E6NO0rgFub4?si=o4ywHNsRZmcwtmbC)
+[**Click to Watch Full Demo on YouTube**](https://youtu.be/B75beY33HsM?feature=shared)
 
 <br>
 
