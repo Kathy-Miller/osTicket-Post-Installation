@@ -51,6 +51,22 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 [My Image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
 [**Click to Watch Full Demo on YouTube**](https://youtu.be/B75beY33HsM?feature=shared)
 
+###Timeline of Video (included on linked site above)
+> 00:00 Connecting to the Virtual Machine created in Azure containing MS Windows 10 (22H2) with Remote Desktop Connection
+> 00:16 Register PHP in IIS in Control Panel > Programs > Programs and Features > Turn Windows Features on or off
+> 00:26 Internet Information Services (IIS) expanded ON (ticked): Web Management Tools, World Wide Web Services (WWWS)
+> 00:29 WWWS expanded ON: all
+> 00:31 Application Development Features (within WWWS expanded) expanded turn ON: CGI
+> 00:35 Common HTTP Features expanded (within WWWS expanded) expanded turn ON: all
+> 00:48 Open MS Edge type 127.0.0.1 into address bar to check that setup of IIS is working properly
+> 
+
+
+
+
+
+
+
 <br>
 
 </br>
