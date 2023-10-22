@@ -43,12 +43,12 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 - [X] Install osTicket and connect to database in HeidiSQL
 
-[<img src="[http://ibb.co/3RWQHRg]((https://youtu.be/B75beY33HsM?feature=shared)([https://ibb.co/3RWQHRg>]([http://google.com.au/](https://youtu.be/B75beY33HsM?feature=shared))
 
 
 
 
-(#)[My Image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
+
+[My Image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
 [**Click to Watch Full Demo on YouTube**](https://youtu.be/B75beY33HsM?feature=shared)
 
 <br>
