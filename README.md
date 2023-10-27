@@ -26,7 +26,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (22H2)
+- Windows 10 Pro (22H2)</b>
 
 <h2>osTicket System Prerequisites</h2>
 
@@ -34,14 +34,11 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 - [X] Use Remote Desktop Connection App to Connect to Virtual Machine (Video below begins here)
 
-
 - [X] Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
-
 
 - [X] Install all Pre-installation Files on Virtual Machine
 
-
-- [X] Install osTicket and connect to database in HeidiSQL
+- [X] Install osTicket and HeidiSQL
 
 
 
