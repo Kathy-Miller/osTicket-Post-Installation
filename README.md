@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Below is a demostration of the the skills practiced in the osTicketing System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator.<br />
+Below is a demostration of the the skills practiced in the osTicketing System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator. In this phase of the lab I configured roles, SLAs, departments, teams, help topics, and adding new agents and users. 
+<br />
  <p>
 
 
