@@ -2,10 +2,18 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-Below is a demostration of the the skills practiced in the osTicketing System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator. In this phase of the lab I configured roles, SLAs, departments, teams, help topics, and adding new agents and users. 
-<br />
- <p>
+<h1>osTicket - Post Installation</h1>
+Below is a demostration of the the skills practiced in the osTicket System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator.
+
+
+
+
+
+<p>
+<br>
+In this phase of the lab, I configure roles, SLAs, departments, teams, help topics, and add new agents and users. 
+<br/>
+<p/>
 
 
 
@@ -17,7 +25,7 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-<h2>Video Demonstration</h2>
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,28 +37,37 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 - Windows 10 Pro (22H2)</b>
 
-<h2>osTicket System Prerequisites</h2>
+<h2>Video Demonstration</h2>
 
-- [X] Create a Resource Group and Virtual Machine in Azure 
+- [X] Configure Roles
 
-- [X] Use Remote Desktop Connection App to Connect to Virtual Machine (Video below begins here)
+- [X] Configure SLA
 
-- [X] Install/Enable IIS in Windows with CGI and Common HTTP Features (Video Begins Here)
+- [X] Configure Departments
 
-- [X] Install all Pre-installation Files on Virtual Machine
+- [X] Configure Teams
 
-- [X] Install osTicket and HeidiSQL
+- [X] Allow All Users to Create Tickets
+     
+- [X] Add New Agents and Users
+
+- [X] Cofigure Help Topics
 
 
 
+Click 👉 [HERE](https://youtu.be/Eh47MBlkBVQ?feature=shared) 👈 to go to the Post Installation demo video.
 
+Video timestamps:
 
-
-[:point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
-[**Click to Watch Full Demo on YouTube**](https://youtu.be/B75beY33HsM?feature=shared)
-
-Detailed instruction with timestamps can be found here: 
-
+- 00:00 Login
+- 00:17 How to Configure Roles
+- 01:13 How to Configure SLA
+- 02:28 How to Configure Departments
+- 05:06 How to Configure Teams
+- 06:41 How to Allow All Users to Create Tickets
+- 07:06 How to Add New Agents
+- 08:47 How to Add New Users (Customers)
+- 09:17 How to Configure Help Topics
 
 
 
@@ -59,13 +76,10 @@ Detailed instruction with timestamps can be found here:
 </br>
 
 
-<h2>Next UP: Post Configuration of osTicket</h2>(https://youtu.be/Eh47MBlkBVQ?feature=shared)
+<h2>Next Up: Add Ticket and Lifecycle</h2>
 
+Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-Add-Ticket-and-Lifecycle) 👈 to go to the Add Ticket and Lifecycle repository.
 
-
- 
-![:point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
-<br />
 
 
               
