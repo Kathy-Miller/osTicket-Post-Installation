@@ -45,14 +45,10 @@ Below is a demostration of the the skills practiced in the osTicketing System La
 
 
 
-[My Image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
+[:point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/e12cb0f4-8caf-4e49-aaad-1e2522c2d19e)
 [**Click to Watch Full Demo on YouTube**](https://youtu.be/B75beY33HsM?feature=shared)
 
 Detailed instruction with timestamps can be found here: 
-
-
-
-
 
 
 
@@ -62,14 +58,9 @@ Detailed instruction with timestamps can be found here:
 </br>
 
 
+<h2>Next UP: Post Configuration of osTicket</h2>(https://youtu.be/Eh47MBlkBVQ?feature=shared)
 
 
-
-<h2>Post Configuration of osTicket</h2>
-
-- SLA Setup
-- User Setup
-- Using the Ticketing System: creating tickets, assign tickets, create notes, add collaborators, close tickets
 
  
 ![:point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
