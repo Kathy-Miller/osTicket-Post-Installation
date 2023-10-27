@@ -72,7 +72,7 @@ Detailed instruction with timestamps can be found here:
 - Using the Ticketing System: creating tickets, assign tickets, create notes, add collaborators, close tickets
 
  
-![image](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
+![:point_right:](https://github.com/Kathy-Miller/osTicket-prereqs/assets/148352721/71de295d-f707-499c-ad6d-1aa21869ac39)
 <br />
 
 
