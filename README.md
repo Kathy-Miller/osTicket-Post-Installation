@@ -78,7 +78,7 @@ Video timestamps:
 
 <h2>Next Up: Add Ticket and Lifecycle</h2>
 
-Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-Add-Ticket-and-Lifecycle) 👈 to go to the Add Ticket and Lifecycle repository.
+Click 👉 [HERE](https://github.com/Kathy-Miller/osTicket-Add-Tickets-and-Lifecycle) 👈 to go to the Add Ticket and Lifecycle repository.
 
 
 
