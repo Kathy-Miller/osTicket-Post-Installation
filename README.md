@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post Installation</h1>
-Below is a demostration of the the skills practiced in the osTicket System Lab.  The topics covered are installation prerequisites, installation, and use of the system as a user and an administrator.
+Below is a demostration of the the skills practiced in the osTicket System Lab.  The topics covered are installation of prerequisites, installation of osTicket, post installation setup, and use of the system as a user and an administrator.
 
 
 
